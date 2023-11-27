@@ -1,0 +1,14 @@
+C:\Dorset college\OOP\ca1\ca1-OOP-25327\ca1-OOP-25327\bin\Debug\net8.0\ca1-OOP-25327.exe
+C:\Dorset college\OOP\ca1\ca1-OOP-25327\ca1-OOP-25327\bin\Debug\net8.0\ca1-OOP-25327.deps.json
+C:\Dorset college\OOP\ca1\ca1-OOP-25327\ca1-OOP-25327\bin\Debug\net8.0\ca1-OOP-25327.runtimeconfig.json
+C:\Dorset college\OOP\ca1\ca1-OOP-25327\ca1-OOP-25327\bin\Debug\net8.0\ca1-OOP-25327.dll
+C:\Dorset college\OOP\ca1\ca1-OOP-25327\ca1-OOP-25327\bin\Debug\net8.0\ca1-OOP-25327.pdb
+C:\Dorset college\OOP\ca1\ca1-OOP-25327\ca1-OOP-25327\obj\Debug\net8.0\ca1-OOP-25327.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dorset college\OOP\ca1\ca1-OOP-25327\ca1-OOP-25327\obj\Debug\net8.0\ca1-OOP-25327.AssemblyInfoInputs.cache
+C:\Dorset college\OOP\ca1\ca1-OOP-25327\ca1-OOP-25327\obj\Debug\net8.0\ca1-OOP-25327.AssemblyInfo.cs
+C:\Dorset college\OOP\ca1\ca1-OOP-25327\ca1-OOP-25327\obj\Debug\net8.0\ca1-OOP-25327.csproj.CoreCompileInputs.cache
+C:\Dorset college\OOP\ca1\ca1-OOP-25327\ca1-OOP-25327\obj\Debug\net8.0\ca1-OOP-25327.dll
+C:\Dorset college\OOP\ca1\ca1-OOP-25327\ca1-OOP-25327\obj\Debug\net8.0\refint\ca1-OOP-25327.dll
+C:\Dorset college\OOP\ca1\ca1-OOP-25327\ca1-OOP-25327\obj\Debug\net8.0\ca1-OOP-25327.pdb
+C:\Dorset college\OOP\ca1\ca1-OOP-25327\ca1-OOP-25327\obj\Debug\net8.0\ca1-OOP-25327.genruntimeconfig.cache
+C:\Dorset college\OOP\ca1\ca1-OOP-25327\ca1-OOP-25327\obj\Debug\net8.0\ref\ca1-OOP-25327.dll
